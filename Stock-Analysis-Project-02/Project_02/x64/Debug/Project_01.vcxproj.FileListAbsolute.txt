@@ -1,0 +1,3 @@
+C:\Users\naren\source\repos\COP4931\Project_01\x64\Debug\Project_01.vcxproj.AssemblyReference.cache
+C:\Users\naren\source\repos\COP4931\Project_01\x64\Debug\Project_01.Form1.resources
+C:\Users\naren\source\repos\COP4931\Project_01\x64\Debug\Project_01.vcxproj.GenerateResource.cache

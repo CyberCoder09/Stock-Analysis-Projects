@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  aCandlestick.cpp
+  aCandlestickLoader.cpp
+C:\Users\naren\source\repos\COP4931\Project_01\aCandlestickLoader.cpp(47,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/aCandlestickLoader.cpp')
+  
+C:\Users\naren\source\repos\COP4931\Project_01\aCandlestickLoader.cpp(47,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/aCandlestickLoader.cpp')
+  
+C:\Users\naren\source\repos\COP4931\Project_01\aCandlestickLoader.cpp(47,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/aCandlestickLoader.cpp')
+  
+C:\Users\naren\source\repos\COP4931\Project_01\aCandlestickLoader.cpp(47,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/aCandlestickLoader.cpp')
+  
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  aCandlestick.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project_01.vcxproj -> C:\Users\naren\source\repos\COP4931\x64\Debug\Project_01.exe
